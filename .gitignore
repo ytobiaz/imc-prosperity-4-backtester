@@ -180,3 +180,9 @@ backtests/
 
 # mac specific file
 .DS_Store
+
+# strategy files
+strategies/
+
+# docs
+AGENTS.md
